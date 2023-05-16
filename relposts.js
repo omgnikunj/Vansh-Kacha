@@ -3,7 +3,7 @@ var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>
 
 //fixed
 window.onload = function () {
-	var e = document.getElementById("vkcredit");
+	var e = document.getElementById("tscredit");
 	if (e == null) {
 		window.location.href = "https://vkmedialine.blogspot.com"
 	}
